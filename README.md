@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 
 ## ⭐ About my account GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jffilgueiras&show_icons=true&theme=dark)
-![GitHub Stats Most Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilgueiras&layout=compact&theme=dark)
+<!--![GitHub Stats Most Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=jffilgueiras&layout=compact&theme=dark) -->
